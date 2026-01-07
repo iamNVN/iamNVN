@@ -1,3 +1,3 @@
-
-![iamNVN's Stats](https://github-readme-stats.vercel.app/api?username=iamNVN&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs&include_all_commits=true) &nbsp;
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamNVN&theme=tokyonight&hide_border=true&card_width=200&hide_current_streak=true&hide_longest_streak=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=iamNVN&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iamNVN&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamNVN&layout=compact&theme=tokyonight)
